@@ -1,6 +1,6 @@
 # npmtest-swagger-express-middleware
 
-#### test coverage for  [swagger-express-middleware (v0.4.7)](https://github.com/BigstickCarpet/swagger-express-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-swagger-express-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-swagger-express-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-swagger-express-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-swagger-express-middleware)
+#### basic test coverage for  [swagger-express-middleware (v0.4.7)](https://github.com/BigstickCarpet/swagger-express-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-swagger-express-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-swagger-express-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-swagger-express-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-swagger-express-middleware)
 
 #### Swagger middleware and mocks for Express
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-swagger-express-middleware/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-swagger-express-middleware/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-swagger-express-middleware/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-swagger-express-middleware/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-swagger-express-middleware/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-swagger-express-middleware/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-swagger-express-middleware/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-swagger-express-middleware/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-swagger-express-middleware/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-swagger-express-middleware/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-swagger-express-middleware/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-swagger-express-middleware/build/coverage.html/index.html)
 
@@ -115,7 +115,8 @@
         "test": "istanbul cover _mocha -- --bail --recursive tests",
         "upgrade": "npm-check-updates -u && npm update"
     },
-    "version": "0.4.7"
+    "version": "0.4.7",
+    "bin": {}
 }
 ```
 
