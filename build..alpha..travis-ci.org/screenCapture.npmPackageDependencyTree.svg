@@ -1,5 +1,5 @@
-<svg height="1102" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1102" fill="#555" width="720"></rect>
+<svg height="1118" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1118" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">16 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
@@ -9,64 +9,65 @@
 <tspan x="10" y="106">  ├─┬ body-parser@1.17.1 </tspan>
 <tspan x="10" y="122">  │ ├── bytes@2.4.0 </tspan>
 <tspan x="10" y="138">  │ ├── content-type@1.0.2 </tspan>
-<tspan x="10" y="154">  │ ├── debug@2.6.1 </tspan>
-<tspan x="10" y="170">  │ ├── depd@1.1.0 </tspan>
-<tspan x="10" y="186">  │ ├─┬ http-errors@1.6.1 </tspan>
-<tspan x="10" y="202">  │ │ ├── inherits@2.0.3 </tspan>
-<tspan x="10" y="218">  │ │ ├── setprototypeof@1.0.3 </tspan>
-<tspan x="10" y="234">  │ │ └── statuses@1.3.1 </tspan>
-<tspan x="10" y="250">  │ ├── iconv-lite@0.4.15 </tspan>
-<tspan x="10" y="266">  │ ├─┬ on-finished@2.3.0 </tspan>
-<tspan x="10" y="282">  │ │ └── ee-first@1.1.1 </tspan>
-<tspan x="10" y="298">  │ ├── qs@6.4.0 </tspan>
-<tspan x="10" y="314">  │ └─┬ raw-body@2.2.0 </tspan>
-<tspan x="10" y="330">  │   └── unpipe@1.0.0 </tspan>
-<tspan x="10" y="346">  ├─┬ cookie-parser@1.4.3 </tspan>
-<tspan x="10" y="362">  │ ├── cookie@0.3.1 </tspan>
-<tspan x="10" y="378">  │ └── cookie-signature@1.0.6 </tspan>
-<tspan x="10" y="394">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="410">  │ └── ms@0.7.2 </tspan>
-<tspan x="10" y="426">  ├── lodash@3.10.1 </tspan>
-<tspan x="10" y="442">  ├─┬ mkdirp@0.5.1 </tspan>
-<tspan x="10" y="458">  │ └── minimist@0.0.8 </tspan>
-<tspan x="10" y="474">  ├─┬ multer@0.1.8 </tspan>
-<tspan x="10" y="490">  │ ├─┬ busboy@0.2.14 </tspan>
-<tspan x="10" y="506">  │ │ ├─┬ dicer@0.2.5 </tspan>
-<tspan x="10" y="522">  │ │ │ └── streamsearch@0.1.2 </tspan>
-<tspan x="10" y="538">  │ │ └─┬ readable-stream@1.1.14 </tspan>
-<tspan x="10" y="554">  │ │   ├── core-util-is@1.0.2 </tspan>
-<tspan x="10" y="570">  │ │   ├── isarray@0.0.1 </tspan>
-<tspan x="10" y="586">  │ │   └── string_decoder@0.10.31 </tspan>
-<tspan x="10" y="602">  │ ├── mkdirp@0.3.5 </tspan>
-<tspan x="10" y="618">  │ ├── qs@1.2.2 </tspan>
-<tspan x="10" y="634">  │ └─┬ type-is@1.5.7 </tspan>
-<tspan x="10" y="650">  │   └─┬ mime-types@2.0.14 </tspan>
-<tspan x="10" y="666">  │     └── mime-db@1.12.0 </tspan>
-<tspan x="10" y="682">  ├── ono@1.0.22 </tspan>
-<tspan x="10" y="698">  ├── swagger-methods@1.0.0 </tspan>
-<tspan x="10" y="714">  ├─┬ swagger-parser@3.4.1 </tspan>
-<tspan x="10" y="730">  │ ├── call-me-maybe@1.0.1 </tspan>
-<tspan x="10" y="746">  │ ├── es6-promise@3.3.1 </tspan>
-<tspan x="10" y="762">  │ ├─┬ json-schema-ref-parser@1.4.1 </tspan>
-<tspan x="10" y="778">  │ │ ├─┬ js-yaml@3.8.3 </tspan>
-<tspan x="10" y="794">  │ │ │ ├─┬ argparse@1.0.9 </tspan>
-<tspan x="10" y="810">  │ │ │ │ └── sprintf-js@1.0.3 </tspan>
-<tspan x="10" y="826">  │ │ │ └── esprima@3.1.3 </tspan>
-<tspan x="10" y="842">  │ │ └── ono@2.2.4 </tspan>
-<tspan x="10" y="858">  │ ├── ono@2.2.4 </tspan>
-<tspan x="10" y="874">  │ ├── swagger-schema-official@2.0.0-bab6bed </tspan>
-<tspan x="10" y="890">  │ └─┬ z-schema@3.18.2 </tspan>
-<tspan x="10" y="906">  │   ├─┬ commander@2.9.0 </tspan>
-<tspan x="10" y="922">  │   │ └── graceful-readlink@1.0.1 </tspan>
-<tspan x="10" y="938">  │   ├── lodash.get@4.4.2 </tspan>
-<tspan x="10" y="954">  │   ├── lodash.isequal@4.5.0 </tspan>
-<tspan x="10" y="970">  │   └── validator@6.3.0 </tspan>
-<tspan x="10" y="986">  ├─┬ tmp@0.0.27 </tspan>
-<tspan x="10" y="1002">  │ └── os-tmpdir@1.0.2 </tspan>
-<tspan x="10" y="1018">  ├── tv4@1.3.0 </tspan>
-<tspan x="10" y="1034">  └─┬ type-is@1.6.15 </tspan>
-<tspan x="10" y="1050">    ├── media-typer@0.3.0 </tspan>
-<tspan x="10" y="1066">    └─┬ mime-types@2.1.15 </tspan>
-<tspan x="10" y="1082">      └── mime-db@1.27.0</tspan>
+<tspan x="10" y="154">  │ ├─┬ debug@2.6.1 </tspan>
+<tspan x="10" y="170">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="186">  │ ├── depd@1.1.0 </tspan>
+<tspan x="10" y="202">  │ ├─┬ http-errors@1.6.1 </tspan>
+<tspan x="10" y="218">  │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="234">  │ │ ├── setprototypeof@1.0.3 </tspan>
+<tspan x="10" y="250">  │ │ └── statuses@1.3.1 </tspan>
+<tspan x="10" y="266">  │ ├── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="282">  │ ├─┬ on-finished@2.3.0 </tspan>
+<tspan x="10" y="298">  │ │ └── ee-first@1.1.1 </tspan>
+<tspan x="10" y="314">  │ ├── qs@6.4.0 </tspan>
+<tspan x="10" y="330">  │ └─┬ raw-body@2.2.0 </tspan>
+<tspan x="10" y="346">  │   └── unpipe@1.0.0 </tspan>
+<tspan x="10" y="362">  ├─┬ cookie-parser@1.4.3 </tspan>
+<tspan x="10" y="378">  │ ├── cookie@0.3.1 </tspan>
+<tspan x="10" y="394">  │ └── cookie-signature@1.0.6 </tspan>
+<tspan x="10" y="410">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="426">  │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="442">  ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="458">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="474">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="490">  ├─┬ multer@0.1.8 </tspan>
+<tspan x="10" y="506">  │ ├─┬ busboy@0.2.14 </tspan>
+<tspan x="10" y="522">  │ │ ├─┬ dicer@0.2.5 </tspan>
+<tspan x="10" y="538">  │ │ │ └── streamsearch@0.1.2 </tspan>
+<tspan x="10" y="554">  │ │ └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="570">  │ │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="586">  │ │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="602">  │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="618">  │ ├── mkdirp@0.3.5 </tspan>
+<tspan x="10" y="634">  │ ├── qs@1.2.2 </tspan>
+<tspan x="10" y="650">  │ └─┬ type-is@1.5.7 </tspan>
+<tspan x="10" y="666">  │   └─┬ mime-types@2.0.14 </tspan>
+<tspan x="10" y="682">  │     └── mime-db@1.12.0 </tspan>
+<tspan x="10" y="698">  ├── ono@1.0.22 </tspan>
+<tspan x="10" y="714">  ├── swagger-methods@1.0.0 </tspan>
+<tspan x="10" y="730">  ├─┬ swagger-parser@3.4.1 </tspan>
+<tspan x="10" y="746">  │ ├── call-me-maybe@1.0.1 </tspan>
+<tspan x="10" y="762">  │ ├── es6-promise@3.3.1 </tspan>
+<tspan x="10" y="778">  │ ├─┬ json-schema-ref-parser@1.4.1 </tspan>
+<tspan x="10" y="794">  │ │ ├─┬ js-yaml@3.8.3 </tspan>
+<tspan x="10" y="810">  │ │ │ ├─┬ argparse@1.0.9 </tspan>
+<tspan x="10" y="826">  │ │ │ │ └── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="842">  │ │ │ └── esprima@3.1.3 </tspan>
+<tspan x="10" y="858">  │ │ └── ono@2.2.4 </tspan>
+<tspan x="10" y="874">  │ ├── ono@2.2.4 </tspan>
+<tspan x="10" y="890">  │ ├── swagger-schema-official@2.0.0-bab6bed </tspan>
+<tspan x="10" y="906">  │ └─┬ z-schema@3.18.2 </tspan>
+<tspan x="10" y="922">  │   ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="938">  │   │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="954">  │   ├── lodash.get@4.4.2 </tspan>
+<tspan x="10" y="970">  │   ├── lodash.isequal@4.5.0 </tspan>
+<tspan x="10" y="986">  │   └── validator@6.3.0 </tspan>
+<tspan x="10" y="1002">  ├─┬ tmp@0.0.27 </tspan>
+<tspan x="10" y="1018">  │ └── os-tmpdir@1.0.2 </tspan>
+<tspan x="10" y="1034">  ├── tv4@1.3.0 </tspan>
+<tspan x="10" y="1050">  └─┬ type-is@1.6.15 </tspan>
+<tspan x="10" y="1066">    ├── media-typer@0.3.0 </tspan>
+<tspan x="10" y="1082">    └─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="1098">      └── mime-db@1.27.0</tspan>
 </text>
 </svg>
